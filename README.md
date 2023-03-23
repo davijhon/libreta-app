@@ -26,8 +26,7 @@ This is an app to do a specific tasks for Gestoy Team (ONLY FOR PRACTICE REASONS
 
 #### Lista de Direcciones + Formulario para crearlas + Seleccion para añadir multiples usuarios
 
-
-
+![list_add_directions_to_users](https://user-images.githubusercontent.com/60607067/227228849-0c554a0a-69db-48de-8001-b77bf0a03801.jpg)
 
 
 # OpenAPI V3
