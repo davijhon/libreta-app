@@ -13,10 +13,6 @@ This is an app to do a specific tasks for Gestoy Team (ONLY FOR PRACTICE REASONS
 ![edit_delete_detail_users](https://user-images.githubusercontent.com/60607067/227213831-2b35418d-90a9-4370-a846-371e4000a2d3.jpg)
 
 
-#### Detalle de Persona + Delete Option y Formulario de Edicion
-
-![edit_delete_detail_users](https://user-images.githubusercontent.com/60607067/227214230-48c2c0df-adc5-4cb0-8caa-33e46ef2e645.jpg)
-
 #### Eliminado por lotes desde Postman. (Se proporciona una lista de id's)
 
 ![delete_urs_by_lots](https://user-images.githubusercontent.com/60607067/227214408-bc641bbf-2254-40d7-819c-57880de322ac.jpg)
